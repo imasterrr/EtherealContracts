@@ -1,0 +1,2 @@
+# auto-created
+eth-abi==1.0.2
