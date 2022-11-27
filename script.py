@@ -12,3 +12,4 @@
 # fix 4942
 # refactor 9801
 # optimize 8801
+# refactor 5248
