@@ -15,3 +15,4 @@ The contracts are designed with gas optimization and upgradeability in mind, pro
 
 MIT
 - Update note 8554
+- Update note 4726
