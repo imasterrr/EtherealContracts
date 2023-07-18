@@ -40,3 +40,4 @@
 # refactor 5253
 # fix 9964
 # fix 1700
+# fix 6967
