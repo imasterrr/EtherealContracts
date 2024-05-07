@@ -34,3 +34,4 @@
 # fix 3101
 # fix 1128
 # refactor 8593
+# refactor 7674
