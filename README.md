@@ -59,3 +59,4 @@ MIT
 - Update note 7106
 - Update note 9751
 - Update note 6260
+- Update note 8671
